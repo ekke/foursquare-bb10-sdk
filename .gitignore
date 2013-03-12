@@ -11,11 +11,6 @@
 *.lai
 *.la
 *.a
-
-# Project Files
-.project
-.cproject
-
 *.bar
 arm/
 x86/
